@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project presents a fully parameterized **Arithmetic Logic Unit (ALU)** designed by **Priya Ananthakrishnan** and **Meenal Sitaram Pannase**. The ALU performs a variety of arithmetic, logical, shifting, and rotational operations on binary inputs, with comprehensive support for operand validation, flags, and error detection.
+This project presents a fully parameterized **Arithmetic Logic Unit (ALU)** designed and verified by **Kanthimathi C**. The ALU performs a variety of arithmetic, logical, shifting, and rotational operations on binary inputs, with comprehensive support for operand validation, flags, and error detection.
 
 The design supports both **arithmetic and logical modes**, with fine-grained control signals and parameterizable data width.
 
