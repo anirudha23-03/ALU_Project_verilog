@@ -74,5 +74,5 @@ The design supports both **arithmetic and logical modes**, with fine-grained con
 - results file
 - report document
 - test plan
-- coverage report with 93% coverage
+- coverage report with 97.5% coverage
 
